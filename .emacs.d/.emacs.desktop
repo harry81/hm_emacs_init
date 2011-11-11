@@ -1,0 +1,51 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Jun  1 09:41:28 2011
+;; Desktop file format version 206
+;; Emacs version 23.1.50.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("select"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/" "~/.emacs.d/hm_appearance.el" "~/.emacs.d/hm_custom.el" "~/.emacs.d/hm_common.el" "~/.emacs.d/hm_appearance.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/hchoi/.emacs.d/hm_appearance.el"
+  "hm_appearance.el"
+  'emacs-lisp-mode
+  '(ecb-minor-mode)
+  4
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . korean-iso-8bit-unix)))
+
+(desktop-create-buffer 206
+  "/home/hchoi/.emacs.d/hm_custom.el"
+  "hm_custom.el"
+  'emacs-lisp-mode
+  '(ecb-minor-mode)
+  486
+  '(487 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-unix)))
+
+(desktop-create-buffer 206
+  "/home/hchoi/.emacs.d/hm_common.el"
+  "hm_common.el"
+  'emacs-lisp-mode
+  '(ecb-minor-mode)
+  3693
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-unix)))
+

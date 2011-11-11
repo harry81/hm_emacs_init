@@ -64,12 +64,6 @@
 
 (setq-default indent-tabs-mode nil)  ;; TABÀ» °ø¹éÀ¸·Î ¹Ù²ãÁØ´Ù.
 
-;;-----------------------------------------------------------------------
-; ±âº» ¾ð¾î ¼³Á¤ : ÇÑ±Û
- (set-language-environment "Korean")
-
-(set-default-font "-misc-droid sans mono-medium-r-normal--11-0-0-0-m-0-iso8859-1")
-(set-fontset-font "fontset-default" 'korean-ksc5601 "-microsoft-naver dictionary-medium-r-normal--12-0-0-0-p-0-ksc5601.1987-0")
 
 
 
@@ -104,3 +98,6 @@ Emacs buffer are those starting with -Y¢¥*¢®."
 (global-font-lock-mode t)
 (setq font-lock-maximum-decoration t)
 (setq x-select-enable-clipboard t) ; 
+
+(setq ecb-tip-of-the-day nil)
+(setq-default tab-width 4)
