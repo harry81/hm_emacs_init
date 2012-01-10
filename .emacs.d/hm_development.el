@@ -44,4 +44,15 @@
 
 (put 'upcase-region 'disabled nil)
 
+(load-file "/usr/share/emacs/site-lisp/xcscope.el")
+(setq cscope-do-not-update-database t)
 (require 'xcscope)
+
+
+(require 'egg)
+
+(add-to-list 'load-path "/home/hchoi/.emacs.d/plugin/git-emacs")
+;;(require 'git)
+
+
+(setq password-cache-expiry nil)
