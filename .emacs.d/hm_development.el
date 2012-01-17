@@ -48,11 +48,13 @@
 (setq cscope-do-not-update-database t)
 (require 'xcscope)
 
-
 (require 'egg)
 
 (add-to-list 'load-path "/home/hchoi/.emacs.d/plugin/git-emacs")
-;;(require 'git)
+(require 'git-emacs)
+
+(add-to-list 'load-path "/home/hchoi/.emacs.d/plugin/psvn")
+(require 'psvn)
 
 
 (setq password-cache-expiry nil)
