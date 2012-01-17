@@ -1,4 +1,4 @@
-; test
+
 (load "~/.emacs.d/hm_custom")
 (load "~/.emacs.d/hm_common")
 (load "~/.emacs.d/hm_common_key")
