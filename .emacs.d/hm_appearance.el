@@ -14,7 +14,6 @@
 )
         ;(font . "fontset-mook")))
 (set-face-font 'default (font-spec :family "terminus" :size 10.0)) 
-;(set-fontset-font "fontset-default" 'korean-ksc5601 "-microsoft-naver dictionary-medium-r-normal--12-0-0-0-p-0-ksc5601.1987-0")
 (set-fontset-font "fontset-default" 'korean-ksc5601 "-microsoft-naver dictionary-medium-r-normal--12-0-0-0-p-0-ksc5601.1987-0")
 
 
