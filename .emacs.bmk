@@ -1,0 +1,15 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("detail_book.html"
+ (filename . "~/work/web_project/web/templates/hoodpub/detail_book.html")
+ (front-context-string . "\n<div class=\"fb-")
+ (rear-context-string . "egoe ui\"></div>\n")
+ (position . 1058))
+("django_facebook"
+ (filename . "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/")
+ (front-context-string . "tests.py\n  -rw-r")
+ (rear-context-string . "012-05-24 20:28 ")
+ (position . 3253))
+)

@@ -1,7 +1,7 @@
 ;;hm_development
 
 ;; PYTHON
-(add-to-list 'load-path "/home/hchoi/.emacs.d/plugin/python-mode")
+(add-to-list 'load-path "~/.emacs.d/plugin/python-mode")
 ;;(setq auto-mode-alist (cons '("\\.py$" . python-mode) auto-mode-alist))
 ;;(setq interpreter-mode-alist (cons '("pythong" . python-mode)
 ;;                                      interpreter-mode-alist))
@@ -40,17 +40,22 @@
 (autoload 'pymacs-apply "pymacs")
 (autoload 'pymacs-call "pymacs")
 
-(add-to-list 'auto-mode-alist '("\\.pc$" . c-mode))
+(load-file "/home/upointer/.emacs.d/plugin/pdb-mode.el")
+;; (load-file "/{path-to}/pdb-mode.el") 
+(setq auto-mode-alist 
+      (cons (cons "pdb$" 'pdb-mode) 
+            auto-mode-alist ) ) 
+(autoload 'pdb-mode "PDB")
+
+;; (add-to-list 'auto-mode-alist '("\\.pc$" . c-mode))
 
 (put 'upcase-region 'disabled nil)
 
-(load-file "/usr/share/emacs/site-lisp/xcscope.el")
+(load-file "/home/upointer/.emacs.d/plugin/cscope/xcscope.el")
 (setq cscope-do-not-update-database t)
 (require 'xcscope)
 
-(require 'egg)
-
-(add-to-list 'load-path "/home/hchoi/.emacs.d/plugin/git-emacs")
+(add-to-list 'load-path "~/.emacs.d/plugin/git-emacs")
 (require 'git-emacs)
 
 (add-to-list 'load-path "/home/hchoi/.emacs.d/plugin/psvn")
