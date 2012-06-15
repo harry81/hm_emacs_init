@@ -1,5 +1,17 @@
+/home/upointer/libbon2/dealing/views.py
+/home/upointer/libbon2/dealing/#views.py#
+/home/upointer/work/web_project/web/apps/hoodpub/views.py
+/home/upointer/work/web_project/web/apps/hoodpub/#views.py#
+/home/upointer/libbon/dealing/views.py
+/home/upointer/libbon/dealing/#views.py#
+/home/upointer/libbon/dealing/models.py
+/home/upointer/libbon/dealing/#models.py#
 /home/upointer/.emacs.d/hm_appearance.el
 /home/upointer/.emacs.d/#hm_appearance.el#
+/home/upointer/work/web_project/web/templates/hoodpub/index.html
+/home/upointer/work/web_project/web/templates/hoodpub/#index.html#
+/home/upointer/.emacs
+/home/upointer/#.emacs#
 /home/upointer/work/web_project/web/templates/hoodpub/inc_likes.html
 /home/upointer/work/web_project/web/templates/hoodpub/#inc_likes.html#
 /home/upointer/.emacs.d/hm_development.el
@@ -12,8 +24,6 @@
 /home/upointer/work/web_project/web/apps/hoodpub/templatetags/#hoodpub_tags.py#
 /home/upointer/work/web_project/web/lib/get_book.py
 /home/upointer/work/web_project/web/lib/#get_book.py#
-/home/upointer/work/web_project/web/apps/hoodpub/views.py
-/home/upointer/work/web_project/web/apps/hoodpub/#views.py#
 /home/upointer/work/web_project/web/templates/hoodpub/list_friends.html
 /home/upointer/work/web_project/web/templates/hoodpub/#list_friends.html#
 /home/upointer/work/web_project/web/configs/common/settings.py
@@ -24,8 +34,6 @@
 /home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/#tests.py#
 /home/upointer/work/web_project/web/apps/hoodpub/models.py
 /home/upointer/work/web_project/web/apps/hoodpub/#models.py#
-/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/templates/django_facebook/connect.html
-/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/templates/django_facebook/#connect.html#
 /home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/context_processors.py
 /home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/#context_processors.py#
 /home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/api.py
@@ -38,8 +46,6 @@
 /home/upointer/work/web_project/web/apps/hoodpub/#urls.py#
 /home/upointer/work/web_project/web/configs/common/urls.py
 /home/upointer/work/web_project/web/configs/common/#urls.py#
-/home/upointer/work/web_project/web/templates/hoodpub/index.html
-/home/upointer/work/web_project/web/templates/hoodpub/#index.html#
 /home/upointer/work/web_project/web/apps/hoodpub/tests/metabook.py
 /home/upointer/work/web_project/web/apps/hoodpub/tests/#metabook.py#
 /home/upointer/work/web_project/web/templates/hoodpub/detail_book.html
@@ -60,8 +66,6 @@
 /home/upointer/work/web_project/web/apps/hoodpub/#forms.py#
 /home/upointer/.bashrc
 /home/upointer/#.bashrc#
-/home/upointer/libbon/dealing/models.py
-/home/upointer/libbon/dealing/#models.py#
 /home/upointer/work/web_project/web/apps/hoodpub/tests/__init__.py
 /home/upointer/work/web_project/web/apps/hoodpub/tests/#__init__.py#
 /home/upointer/work/web_project/web/templates/hoodpub/add_book.html

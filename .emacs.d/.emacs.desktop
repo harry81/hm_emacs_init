@@ -2,71 +2,71 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Wed May 30 12:39:20 2012
+;; Created Thu Jun 14 19:26:34 2012
 ;; Desktop file format version 206
-;; Emacs version 23.2.1
+;; Emacs version 23.3.1
 
 ;; Global section:
 (setq desktop-missing-file-warning nil)
-(setq tags-file-name nil)
-(setq tags-table-list nil)
-(setq search-ring '("p" "naver" "dejavu" "naver" "dejavu" "ko" "kore" "naver" "dejavu" "book " "dejavu" "droid" "nan" "py" "courier" "outli"))
-(setq regexp-search-ring nil)
-(setq register-alist (list '(56 ".id          " ".user_id     " ".facebook_id " ".name        " ".category    " ".created_time") (list 213465889 "Unprintable entity" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook (list 'lambda '() (list 'set-marker mk 1 (get-buffer "work/hoodpub/urls.py")))) mk)) (list 213465879 "Unprintable entity" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook (list 'lambda '() (list 'set-marker mk 1 (get-buffer "work/hoodpub/urls.py")))) mk))))
-(setq file-name-history '("~/.emacs.d/" "~/work/web_project/web/lib/" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/connect.py" "~/work/web_project/web/templates/hoodpub/list_deal.html" "~/work/web_project/web/templates/hoodpub/inc_likes.html" "~/work/web_project/web/templates/hoodpub/" "/home/upointer/work/web_project/web/apps/hoodpub/templatetags/hoodpub_tags.py" "~/work/web_project/web/templates/hoodpub/entry_friends_likes.html" "~/work/web_project/web/templates/hoodpub/" "~/work/web_project/web/templates/hoodpub/entry_friends_like.html" "~/work/web_project/web/templates/hoodpub/list_friends.html" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/models.py" "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/models.py" "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/model_managers.py" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/models.py" "~/.emacs.d/hm_development.el" "~/work/web_project/web/templates/hoodpub/" "~/work/web_project/web/templates/hoodpub/inc_top.html" "~/.emacs.d/" "~/.emacs.d/hm_custom.el" "~/work/web_project/web/templates/hoodpub/" "~/work/web_project/web/templates/hoodpub/list_deal.html" "~/work/web_project/web/apps/hoodpub/" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/" "~/work/web_project/startruncgi.sh" "~/work/web_project/" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/views.py" "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/templates/django_facebook" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/"))
+(setq tags-file-name "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/TAGS")
+(setq tags-table-list '("/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/TAGS" "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook/TAGS"))
+(setq search-ring '("read" "meta" "ho" "forei" "openf" "read" "4.0.4" "template" "load" "pdb" "mass_get_or_create" "pdb" "good" "oauth" "OpenFacebookException" "oauth"))
+(setq regexp-search-ring '("14"))
+(setq register-alist (list (list 107 '(frame-configuration ("Unprintable entity" ((parent-id . 23257720) (explicit-name) (display . ":0") (visibility . t) (icon-name) (outer-window-id . "44040359") (window-id . "44040410") (top . 24) (left . 0) (buried-buffer-list "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity") (buffer-list "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity") (unsplittable) (minibuffer . "Unprintable entity") (modeline . t) (width . 271) (height . 68) (name . "emacs23@upointer-note") (Width . 2000) (environment) (sticky) (background-mode . dark) (display-type . color) (horizontal-scroll-bars . t) (window-system . x) (alpha) (scroll-bar-width . 0) (cursor-type . box) (auto-lower) (auto-raise) (icon-type . t) (fullscreen . maximized) (wait-for-wm . t) (title) (buffer-predicate) (tool-bar-lines . 0) (menu-bar-lines . 1) (scroll-bar-background . "grey75") (scroll-bar-foreground) (right-fringe . 11) (left-fringe . 10) (line-spacing) (screen-gamma) (border-color . "black") (cursor-color . "white") (mouse-color . "black") (background-color . "black") (foreground-color . "light grey") (vertical-scroll-bars) (internal-border-width . 0) (border-width . 2) (font . "-unknown-DejaVu Sans Mono-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (font-parameter . "DejaVu Sans Mono-9") (font-backend xft x)) "Unprintable entity")) (let ((mk (make-marker))) (add-hook 'desktop-delay-hook (list 'lambda '() (list 'set-marker mk nil (get-buffer " *temp*")))) mk)) '(56 ".id          " ".user_id     " ".facebook_id " ".name        " ".category    " ".created_time") (list 213465889 "Unprintable entity" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook (list 'lambda '() (list 'set-marker mk nil (get-buffer " *temp*")))) mk)) (list 213465879 "Unprintable entity" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook (list 'lambda '() (list 'set-marker mk nil (get-buffer " *temp*")))) mk))))
+(setq file-name-history '("~/work/web_project/web/apps/Django-facebook/django_facebook/views.py" "~/work/web_project/web/apps/Django-facebook/django_facebook/api.py" "~/work/web_project/web/apps/Django-facebook/django_facebook/views.py" "~/work/web_project/fabfile.py" "~/work/web_project/web/apps/Django-facebook/django_facebook/views.py" "/home/upointer/work/web_project/web/apps/Django-facebook/django_facebook" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/open_facebook/exceptions.py" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/open_facebook/tests.py" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/api.py" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/django_facebook/api.py " "~/work/web_project/web/apps/hoodpub/urls.py" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/views.py" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/urls.py" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/views.py" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/urls.py" "~/work/web_project/web/templates/hoodpub/" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/urls.py" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/views.py" "~/work/web_project/web/templates/hoodpub/inc_reads.html" "~/work/web_project/web/templates/hoodpub/" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/" "~/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/connect.py" "~/work/web_project/web/templates/hoodpub/entry_friends_reads.html" "~/work/web_project/web/templates/hoodpub/entry_friends_likes.html" "~/work/web_project/web/templates/hoodpub/list_friends.html" "~/work/web_project/web/templates/hoodpub/" "~/work/web_project/web/static/css/"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
 (desktop-create-buffer 206
-  "/home/upointer/.emacs.d/hm_appearance.el"
-  "hm_appearance.el"
-  'emacs-lisp-mode
-  '(buffer-face-mode)
-  1101
-  '(1101 nil)
+  "/home/upointer/work/web_project/web/docs/hoodpub_diary.txt"
+  "hoodpub_diary.txt"
+  'python-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  1205
+  '(1293 nil)
   nil
   nil
-  '((buffer-file-coding-system . korean-iso-8bit-unix)))
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . korean-iso-8bit-unix)))
 
 (desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/templates/hoodpub/inc_likes.html"
-  "inc_likes.html"
-  'html-mode
-  '(text-scale-mode)
-  93
-  '(57 nil)
+  "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/models.py"
+  "models.py"
+  'django-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  4103
+  '(3992 nil)
   nil
   nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
-  "/home/upointer/.emacs.d/hm_development.el"
-  "hm_development.el"
-  'emacs-lisp-mode
+  "/home/upointer/work/web_project/web/apps/Django-facebook/django_facebook/views.py"
+  "views.py"
+  'django-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  633
+  '(613 nil)
   nil
-  1791
-  '(1207 nil)
   nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
+  "/home/upointer/work/virt_env/web/local/lib/python2.7/site-packages/django_facebook-4.0.7-py2.7.egg/django_facebook/views.py"
+  "views.py"
+  'django-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  8018
+  '(nil nil)
   nil
-  ".emacs.d"
-  'dired-mode
-  '(buffer-face-mode)
-  888
-  '(252 nil)
-  t
-  '("/home/upointer/.emacs.d/")
-  nil)
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
   "/home/upointer/work/web_project/web/docs/hoodpub_harry.txt"
   "hoodpub_harry.txt"
   'text-mode
   nil
-  6902
-  '(10732 nil)
+  12862
+  '(3390 nil)
   nil
   nil
   '((buffer-file-coding-system . korean-iso-8bit-unix)))
@@ -75,195 +75,250 @@
   "/home/upointer/work/web_project/fabfile.py"
   "fabfile.py"
   'python-mode
-  '(buffer-face-mode outline-minor-mode)
-  8862
-  '(5005 nil)
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  9295
+  '(9566 nil)
   nil
   nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/apps/hoodpub/templatetags/hoodpub_tags.py"
-  "hoodpub_tags.py"
-  'python-mode
-  '(buffer-face-mode outline-minor-mode)
-  4617
-  '(4600 nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/lib/get_book.py"
-  "get_book.py"
-  'python-mode
-  '(outline-minor-mode)
-  1362
-  '(1345 nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  nil
-  "lib"
-  'dired-mode
-  nil
-  406
-  '(nil nil)
-  t
-  '("/home/upointer/work/web_project/web/lib/")
-  nil)
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/apps/hoodpub/views.py"
-  "views.py"
-  'python-mode
-  '(buffer-face-mode outline-minor-mode)
-  3032
-  '(3032 nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/templates/hoodpub/list_friends.html"
-  "list_friends.html"
+  "/home/upointer/work/web_project/web/templates/hoodpub/detail_book.html"
+  "detail_book.html"
   'html-mode
-  '(buffer-face-mode)
-  299
-  '(314 nil)
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  769
+  '(898 nil)
   nil
   nil
   '((buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
+  "/home/upointer/work/web_project/web/templates/hoodpub/base.html"
+  "base.html"
+  'html-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  131
+  '(201 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/virt_env/web/local/lib/python2.7/site-packages/Django-1.4-py2.7.egg/django/core/handlers/base.py"
+  "base.py"
+  'python-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  1
+  '(11888 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/web_project/web/templates/hoodpub/entry_search_page.html"
+  "entry_search_page.html"
+  'html-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  389
+  '(480 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/web_project/web/templates/hoodpub/search_book.html"
+  "search_book.html"
+  'js-mode
+  nil
+  629
+  '(629 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/web_project/web/apps/Django-facebook/django_facebook/api.py"
+  "api.py"
+  'python-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  16549
+  '(20357 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
   "/home/upointer/work/web_project/web/configs/common/settings.py"
   "settings.py"
-  'python-mode
-  '(buffer-face-mode outline-minor-mode)
-  7351
-  '(3665 nil)
+  'django-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  5585
+  '(5519 nil)
   nil
   nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/templates/hoodpub/entry_friends_likes.html"
-  "entry_friends_likes.html"
-  'html-mode
-  '(buffer-face-mode)
-  194
-  '(138 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . korean-iso-8bit-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/tests.py"
-  "tests.py"
-  'python-mode
-  '(outline-minor-mode)
-  558
-  '(558 nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
   nil
   "django_facebook"
   'dired-mode
-  '(buffer-face-mode)
-  3260
-  '(3646 nil)
+  nil
+  368
+  '(nil nil)
   t
-  '("/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/")
+  '("/home/upointer/work/web_project/web/apps/Django-facebook/django_facebook/")
   nil)
+
+(desktop-create-buffer 206
+  "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/api.py"
+  "api.py"
+  'python-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  27
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/views.py"
+  "views.py"
+  'django-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  7997
+  '(8006 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/open_facebook/tests.py"
+  "tests.py"
+  'django-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  2102
+  '(6259 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/urls.py"
+  "urls.py"
+  'django-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  432
+  '(424 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/web_project/web/apps/hoodpub/views.py"
+  "views.py"
+  'django-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  5249
+  '(2007 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/web_project/web/static/javascript/hoodpub.js"
+  "hoodpub.js"
+  'js-mode
+  nil
+  837
+  '(808 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/web_project/web/templates/hoodpub/inc_top.html"
+  "inc_top.html"
+  'html-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  1
+  '(645 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/web_project/web/apps/hoodpub/urls.py"
+  "urls.py"
+  'django-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  405
+  '(391 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/web_project/web/apps/hoodpub/templatetags/hoodpub_tags.py"
+  "hoodpub_tags.py"
+  'python-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  5194
+  '(5198 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/web_project/web/templates/hoodpub/entry_friends_reads.html"
+  "entry_friends_reads.html"
+  'html-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  283
+  '(283 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
   "/home/upointer/work/web_project/web/apps/hoodpub/models.py"
   "models.py"
-  'python-mode
-  '(outline-minor-mode)
-  5333
-  '(5026 nil)
+  'django-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  5274
+  '(5260 nil)
   nil
   nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
 
 (desktop-create-buffer 206
-  "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/templates/django_facebook/connect.html"
-  "connect.html"
+  "/home/upointer/work/web_project/web/templates/hoodpub/list_friends.html"
+  "list_friends.html"
   'html-mode
-  '(buffer-face-mode)
-  12358
-  '(1 nil)
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  562
+  '(nil nil)
   nil
   nil
   '((buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
-  "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/context_processors.py"
-  "context_processors.py"
-  'python-mode
-  '(outline-minor-mode)
-  322
-  '(1 nil)
+  "/home/upointer/work/web_project/web/static/css/style.css"
+  "style.css"
+  'css-mode
+  nil
+  6489
+  '(5878 nil)
   nil
   nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/api.py"
-  "api.py"
-  'python-mode
-  '(outline-minor-mode)
-  82
-  '(1 nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/models.py"
-  "models.py"
-  'python-mode
-  '(outline-minor-mode)
-  3868
-  '(1 nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/templates/hoodpub/list_deal.html"
-  "list_deal.html"
-  'html-mode
-  nil
-  2260
-  '(2153 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  nil
-  "dealing"
-  'dired-mode
-  nil
-  924
-  '(324 nil)
-  t
-  '("/home/upointer/libbon/dealing/")
-  nil)
+  '((buffer-file-coding-system . korean-iso-8bit-unix) (overwrite-mode)))
 
 (desktop-create-buffer 206
   nil
   "hoodpub"
   'dired-mode
   nil
-  640
+  654
   '(1 nil)
   t
   '("/home/upointer/work/web_project/web/templates/hoodpub/")
@@ -271,628 +326,177 @@
 
 (desktop-create-buffer 206
   nil
-  "templates"
-  'dired-mode
-  nil
-  467
-  '(nil nil)
-  t
-  '("/home/upointer/work/web_project/web/templates/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "web"
-  'dired-mode
-  nil
-  893
-  '(459 nil)
-  t
-  '("/home/upointer/work/web_project/web/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "apps"
-  'dired-mode
-  nil
-  207
-  '(nil nil)
-  t
-  '("/home/upointer/work/web_project/web/apps/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "hoodpub"
-  'dired-mode
-  nil
-  213
-  '(1 nil)
-  t
-  '("/home/upointer/work/web_project/web/apps/hoodpub/")
-  nil)
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/apps/hoodpub/urls.py"
-  "urls.py"
-  'python-mode
-  '(outline-minor-mode)
-  516
-  '(505 nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/configs/common/urls.py"
-  "urls.py"
-  'python-mode
-  '(outline-minor-mode)
-  403
-  '(220 nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (fill-column . 46)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/templates/hoodpub/index.html"
-  "index.html"
-  'html-mode
-  '(buffer-face-mode)
-  1
-  '(1469 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/apps/hoodpub/tests/metabook.py"
-  "metabook.py"
-  'python-mode
-  '(outline-minor-mode)
-  1025
-  '(1060 nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
-
-(desktop-create-buffer 206
-  nil
   "django_facebook"
   'dired-mode
   nil
-  665
-  '(653 nil)
+  466
+  '(3740 nil)
   t
-  '("/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/templates/django_facebook/")
+  '("/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/")
   nil)
 
 (desktop-create-buffer 206
   nil
-  "templates"
+  "django_facebook-4.0.4-py2.7.egg"
   'dired-mode
   nil
-  341
+  318
   '(nil nil)
   t
-  '("/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/templates/")
+  '("/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/")
   nil)
 
 (desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/templates/hoodpub/detail_book.html"
-  "detail_book.html"
-  'html-mode
-  nil
-  891
-  '(874 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/templates/hoodpub/base.html"
-  "base.html"
-  'html-mode
-  nil
-  1787
-  '(1763 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/settings.py"
-  "settings.py"
+  "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/open_facebook/api.py"
+  "api.py"
   'python-mode
-  '(outline-minor-mode)
-  1198
-  '(1175 nil)
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  14607
+  '(1 nil)
   nil
   nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  nil
-  "static"
-  'dired-mode
-  nil
-  280
-  '(nil nil)
-  t
-  '("/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/static/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "fixtures"
-  'dired-mode
-  nil
-  282
-  '(nil nil)
-  t
-  '("/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/fixtures/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "tests_utils"
-  'dired-mode
-  nil
-  285
-  '(nil nil)
-  t
-  '("/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/tests_utils/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "sample_data"
-  'dired-mode
-  nil
-  299
-  '(nil nil)
-  t
-  '("/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/django_facebook/tests_utils/sample_data/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "django_facebook-4.0.2-py2.7.egg"
-  'dired-mode
-  nil
-  383
-  '(318 nil)
-  t
-  '("/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/")
-  nil)
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
 
 (desktop-create-buffer 206
   nil
   "open_facebook"
   'dired-mode
   nil
-  274
-  '(1 nil)
-  t
-  '("/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.2-py2.7.egg/open_facebook/")
-  nil)
-
-(desktop-create-buffer 206
-  "/home/upointer/libbon/settings.py"
-  "settings.py"
-  'python-mode
-  '(outline-minor-mode)
-  1278
-  '(1143 nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/startruncgi.sh"
-  "startruncgi.sh"
-  'sh-mode
-  nil
-  66
-  '(43 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/killruncgi.sh"
-  "killruncgi.sh"
-  'sh-mode
-  nil
-  9
-  '(10 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  nil
-  "web_project"
-  'dired-mode
-  nil
-  661
+  333
   '(nil nil)
   t
-  '("/home/upointer/work/web_project/")
+  '("/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/open_facebook/")
   nil)
 
 (desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/templates/registration/login.html"
-  "login.html"
+  nil
+  "facebook_example"
+  'dired-mode
+  nil
+  279
+  '(nil nil)
+  t
+  '("/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/facebook_example/")
+  nil)
+
+(desktop-create-buffer 206
+  "/home/upointer/work/web_project/web/templates/hoodpub/inc_reads.html"
+  "inc_reads.html"
   'html-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  106
+  '(106 nil)
   nil
-  806
-  '(806 nil)
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/virt_env/web/lib/python2.7/site-packages/django_facebook-4.0.4-py2.7.egg/django_facebook/connect.py"
+  "connect.py"
+  'python-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  6125
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/web_project/web/static/onoff/css/eventSummaryCommon.css"
+  "eventSummaryCommon.css"
+  'css-mode
+  nil
+  10837
+  '(10736 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . korean-cp949-dos)))
+
+(desktop-create-buffer 206
+  "/home/upointer/work/web_project/web/templates/hoodpub/index.html"
+  "index.html"
+  'html-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  67
+  '(nil nil)
   nil
   nil
   '((buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
   nil
-  "Django-facebook"
+  "css"
   'dired-mode
   nil
-  263
+  375
   '(nil nil)
   t
-  '("/home/upointer/libbon/Django-facebook/")
+  '("/home/upointer/work/web_project/web/static/onoff/css/")
+  nil)
+
+(desktop-create-buffer 206
+  "/home/upointer/work/web_project/web/static/css/layout_custom.css"
+  "layout_custom.css"
+  'css-mode
+  nil
+  233
+  '(226 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "css"
+  'dired-mode
+  nil
+  381
+  '(nil nil)
+  t
+  '("/home/upointer/work/web_project/web/static/css/")
   nil)
 
 (desktop-create-buffer 206
   "/home/upointer/work/web_project/web/apps/hoodpub/forms.py"
   "forms.py"
-  'python-mode
-  '(outline-minor-mode)
-  2689
-  '(5122 nil)
+  'django-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  3987
+  '(3853 nil)
   nil
   nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/.bashrc"
-  ".bashrc"
-  'sh-mode
-  nil
-  3358
-  '(3467 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/libbon/dealing/models.py"
-  "models.py"
-  'python-mode
-  '(outline-minor-mode)
-  3244
-  '(3126 nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  nil
-  "common"
-  'dired-mode
-  nil
-  675
-  '(273 nil)
-  t
-  '("/home/upointer/work/web_project/web/configs/common/")
-  nil)
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/apps/hoodpub/tests/__init__.py"
-  "__init__.py"
-  'python-mode
-  '(outline-minor-mode)
-  2
-  '(1 nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/templates/hoodpub/add_book.html"
-  "add_book.html"
-  'html-mode
-  nil
-  520
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  nil
-  "virt_env"
-  'dired-mode
-  nil
-  192
-  '(nil nil)
-  t
-  '("/home/upointer/work/virt_env/")
-  nil)
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/static/javascript/hoodpub.js"
-  "hoodpub.js"
-  'js-mode
-  nil
-  58
-  '(58 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
   nil
   "javascript"
   'dired-mode
   nil
-  345
-  '(nil nil)
+  316
+  '(246 nil)
   t
   '("/home/upointer/work/web_project/web/static/javascript/")
   nil)
 
 (desktop-create-buffer 206
-  nil
-  "static"
-  'dired-mode
-  nil
-  469
-  '(nil nil)
-  t
-  '("/home/upointer/work/web_project/web/static/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "libbon"
-  'dired-mode
-  nil
-  522
-  '(nil nil)
-  t
-  '("/home/upointer/libbon/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "com_templates"
-  'dired-mode
-  nil
-  202
-  '(nil nil)
-  t
-  '("/home/upointer/libbon/com_templates/")
-  nil)
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/apps/hoodpub/tests/auth.py"
-  "auth.py"
-  'python-mode
-  '(outline-minor-mode)
-  586
-  '(180 nil)
+  "/home/upointer/.emacs.d/hm_development.el"
+  "hm_development.el"
+  'emacs-lisp-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode)
+  2065
+  '(2563 nil)
   nil
   nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . korean-iso-8bit-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/static/javascript/libbon_map.js"
-  "libbon_map.js"
-  'js-mode
-  nil
-  5216
-  '(4570 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/templates/registration/registration_form.html"
-  "registration_form.html"
-  'html-mode
-  nil
-  415
-  '(474 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/lib/json_load.py"
-  "json_load.py"
-  'python-mode
-  '(outline-minor-mode)
-  128
-  '(76 nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/lib/json.dat"
-  "json.dat"
-  'fundamental-mode
-  nil
-  2966
-  '(2966 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  nil
-  "registration"
-  'dired-mode
-  nil
-  692
-  '(nil nil)
-  t
-  '("/home/upointer/work/web_project/web/templates/registration/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "tests"
-  'dired-mode
-  nil
-  404
-  '(nil nil)
-  t
-  '("/home/upointer/work/web_project/web/apps/hoodpub/tests/")
-  nil)
-
-(desktop-create-buffer 206
-  "/home/upointer/.bash_aliases"
-  ".bash_aliases"
-  'fundamental-mode
-  nil
-  192
-  '(124 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  nil
-  "configs"
-  'dired-mode
-  nil
-  269
-  '(nil nil)
-  t
-  '("/home/upointer/work/web_project/web/configs/")
-  nil)
-
-(desktop-create-buffer 206
-  "/home/upointer/work/hoodpub/urls.py"
-  "urls.py"
-  'python-mode
-  '(outline-minor-mode)
-  603
-  '(nil nil)
-  nil
-  nil
-  '((tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  nil
-  "hoodpub"
-  'dired-mode
-  nil
-  258
-  '(720 nil)
-  t
-  '("/home/upointer/work/hoodpub/hoodpub/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "hoodpub"
-  'dired-mode
-  nil
-  505
-  '(nil nil)
-  t
-  '("/home/upointer/work/hoodpub/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "work"
-  'dired-mode
-  nil
-  315
-  '(nil nil)
-  t
-  '("/home/upointer/work/")
-  nil)
+  '((buffer-file-coding-system . utf-8-unix)))
 
 (desktop-create-buffer 206
   nil
   "docs"
   'dired-mode
   nil
-  344
+  362
   '(nil nil)
   t
   '("/home/upointer/work/web_project/web/docs/")
   nil)
-
-(desktop-create-buffer 206
-  nil
-  "upointer"
-  'dired-mode
-  nil
-  4564
-  '(3260 nil)
-  t
-  '("/home/upointer/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "libbon2"
-  'dired-mode
-  nil
-  189
-  '(nil nil)
-  t
-  '("/home/upointer/libbon2/")
-  nil)
-
-(desktop-create-buffer 206
-  "/home/upointer/work/virt_env/web/local/lib/python2.7/site-packages/django_registration-0.8-py2.7.egg"
-  "django_registration-0.8-py2.7.egg"
-  'archive-mode
-  nil
-  9069
-  '(1 nil)
-  t
-  nil
-  '((buffer-file-coding-system . no-conversion)))
-
-(desktop-create-buffer 206
-  "/home/upointer/work/web_project/web/docs/hoodpub_diary.txt"
-  "hoodpub_diary.txt"
-  'text-mode
-  nil
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . korean-iso-8bit-unix)))
-
-(desktop-create-buffer 206
-  nil
-  "docs"
-  'dired-mode
-  nil
-  332
-  '(nil nil)
-  t
-  '("/home/upointer/work/hoodpub/docs/")
-  nil)
-
-(desktop-create-buffer 206
-  "/home/upointer/work/hoodpub/docs/hoodpub_diary.txt"
-  "hoodpub_diary.txt"
-  'text-mode
-  nil
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . iso-latin-1-unix)))
 

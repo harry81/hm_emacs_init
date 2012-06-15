@@ -14,8 +14,7 @@
         ;; (font . "-xos4-terminus-medium-r-normal--22-220-72-72-c-110-iso8859-9")
         ;; (set-fontset-font "fontset-default" '(#xe0bc . #xf66e)
         ;;                   '("NanumGothicOTF" . "iso10646-1"))
-        (add-to-list 'default-frame-alist '(font . "DejaVu Sans Mono-9"))
-
+;        (add-to-list 'default-frame-alist '(font . "DejaVu Sans Mono-9"))
 
         (background-color . "black"))
 
@@ -31,4 +30,5 @@
 ;;-----------------------------------------------------------------------
 
 (set-default-font "DejaVu Sans Mono-9")
-(set-fontset-font "fontset-default" 'korean-ksc5601 "-microsoft-네이버사전-normal-normal-normal-*-*-*-*-*-*-0-iso10646-1")
+(set-fontset-font "fontset-default" 'korean-ksc5601 "-microsoft-Naver Dictionary-normal-normal-normal-*-*-*-*-*-*-0-iso10646-1")
+;;-microsoft-Naver Dictionary-normal-normal-normal-*-*-*-*-*-*-0-iso10646-1

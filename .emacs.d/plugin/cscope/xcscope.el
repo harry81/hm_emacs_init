@@ -774,7 +774,7 @@ Must end with a newline.")
 ;;;;
 
 (defcustom cscope-use-face t
-  "*Whether to use text highlighting (ÔøΩ la font-lock) or not."
+  "*Whether to use text highlighting (Âç†Ω la font-lock) or not."
   :group 'cscope
   :type '(boolean))
 
@@ -996,23 +996,23 @@ specified by the cscope database.")
 (if cscope:map
     nil
   (setq cscope:map (make-sparse-keymap))
-  (define-key cscope:map "\C-css" 'cscope-find-this-symbol)
-  (define-key cscope:map "\C-csd" 'cscope-find-global-definition)
-  (define-key cscope:map "\C-csg" 'cscope-find-global-definition)
-  (define-key cscope:map "\C-csc" 'cscope-find-functions-calling-this-function)
-  (define-key cscope:map "\C-csC" 'cscope-find-called-functions)
-  (define-key cscope:map "\C-cst" 'cscope-find-this-text-string)
-  (define-key cscope:map "\C-cse" 'cscope-find-egrep-pattern)
-  (define-key cscope:map "\C-csf" 'cscope-find-this-file)
-  (define-key cscope:map "\C-csi" 'cscope-find-files-including-file)
+  (define-key cscope:map "\C-cds" 'cscope-find-this-symbol)
+  (define-key cscope:map "\C-cdd" 'cscope-find-global-definition)
+  (define-key cscope:map "\C-cdg" 'cscope-find-global-definition)
+  (define-key cscope:map "\C-cdc" 'cscope-find-functions-calling-this-function)
+  (define-key cscope:map "\C-cdC" 'cscope-find-called-functions)
+  (define-key cscope:map "\C-cdt" 'cscope-find-this-text-string)
+  (define-key cscope:map "\C-cde" 'cscope-find-egrep-pattern)
+  (define-key cscope:map "\C-cdf" 'cscope-find-this-file)
+  (define-key cscope:map "\C-cdi" 'cscope-find-files-including-file)
   ;;
-  (define-key cscope:map "\C-csL" 'cscope-create-list-of-files-to-index)
-  (define-key cscope:map "\C-csI" 'cscope-index-files)
-  (define-key cscope:map "\C-csE" 'cscope-edit-list-of-files-to-index)
-  (define-key cscope:map "\C-csW" 'cscope-tell-user-about-directory)
-  (define-key cscope:map "\C-csS" 'cscope-tell-user-about-directory)
-  (define-key cscope:map "\C-csT" 'cscope-tell-user-about-directory)
-  (define-key cscope:map "\C-csD" 'cscope-dired-directory))
+  (define-key cscope:map "\C-cdL" 'cscope-create-list-of-files-to-index)
+  (define-key cscope:map "\C-cdI" 'cscope-index-files)
+  (define-key cscope:map "\C-cdE" 'cscope-edit-list-of-files-to-index)
+  (define-key cscope:map "\C-cdW" 'cscope-tell-user-about-directory)
+  (define-key cscope:map "\C-cdS" 'cscope-tell-user-about-directory)
+  (define-key cscope:map "\C-cdT" 'cscope-tell-user-about-directory)
+  (define-key cscope:map "\C-cdD" 'cscope-dired-directory))
 
 (easy-menu-define cscope:menu
 		  (list cscope:map cscope-list-entry-keymap)
