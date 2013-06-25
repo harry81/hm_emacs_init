@@ -4,7 +4,7 @@
 ;; IMPORTANT: For Emacs >= 23.2, you must place this *before* any
 ;; CEDET component (including EIEIO) gets activated by another
 ;; package (Gnus, auth-source, ...).
-(load-file "/home/upointer/.emacs.d/plugin/cedet-1.0.1/common/cedet.el")
+(load-file "~/.emacs.d/plugin/cedet-1.0.1/common/cedet.el")
 
 ;; Enable EDE (Project Management) features
 (global-ede-mode 1)

@@ -1,8 +1,7 @@
 (transient-mark-mode 1)
 
 (defun select-current-word ()
-"Select the word under cursor.
-¡°word¡± here is considered any alphanumeric sequence with ¡°_¡± or ¡°-¡±."
+"Select the word under cursor."
  (interactive)
  (let (pt)
    (skip-chars-backward "-_A-Za-z0-9")
@@ -18,3 +17,5 @@
   (set-mark (line-beginning-position)))
 
 (delete-selection-mode t)
+
+

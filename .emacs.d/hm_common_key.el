@@ -2,12 +2,11 @@
 (global-set-key (kbd "C-<tab>") 'tabbar-forward)
 (global-set-key "\C-x\C-b" 'buffer-menu)       ; CxCb puts point on buffer list
 
-;;¶óÀÎ ¹Ù·Î°¡±â Å° ¸ÊÇÎ (M-g)
+;;ë¼ì¸ ë°”ë¡œê°€ê¸° í‚¤ ë§µí•‘ (M-g)
 (global-set-key "\M-g" 'goto-line)
 (global-set-key "\M-r" 'replace-string)
-(global-set-key "\M-r" 'replace-string)
 
-(windmove-default-keybindings 'meta) ; ³ª´µ¾îÁø À©µµ¿ì¸¦ Alt Key¸¸ ÀÌ¿ëÇØ¼­ ÀÌµ¿°¡´É
+(windmove-default-keybindings 'meta) ; ë‚˜ë‰˜ì–´ì§„ ìœˆë„ìš°ë¥¼ Alt Keyë§Œ ì´ìš©í•´ì„œ ì´ë™ê°€ëŠ¥
 
 ;; By an unknown contributor
 ;(global-set-key "%" 'match-paren)
@@ -15,3 +14,4 @@
 (global-set-key "\C-cr" 'org-remember)
 (global-set-key "\C-cw" 'select-current-word)
 (global-set-key "\C-cl" 'select-current-line)
+(global-set-key "\C-cg" 'grep-find)

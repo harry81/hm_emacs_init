@@ -1,6 +1,6 @@
 ;;hm_appearance
 
-;±âº» ¾ð¾î ¼³Á¤ : ÇÑ±Û
+;ê¸°ë³¸ ì–¸ì–´ ì„¤ì • : í•œê¸€
 (set-language-environment "Korean")
 
 (setq default-frame-alist
@@ -11,24 +11,7 @@
         (cursor-color . "white")
         (cursor-type . box)
         (foreground-color . "light grey")
-        ;; (font . "-xos4-terminus-medium-r-normal--22-220-72-72-c-110-iso8859-9")
-        ;; (set-fontset-font "fontset-default" '(#xe0bc . #xf66e)
-        ;;                   '("NanumGothicOTF" . "iso10646-1"))
-;        (add-to-list 'default-frame-alist '(font . "DejaVu Sans Mono-9"))
-
         (background-color . "black"))
-
-        ;; (font . "-*-Courier-normal-r-*-*-11-*-*-*-c-*-iso8859-1")
 )
-        ;(font . "fontset-mook")))
-;; (set-face-font 'default (font-spec :family "terminus" :size 9.0)) 
-;; (set-fontset-font "fontset-default" 'korean-ksc5601 "-microsoft-naver dictionary-medium-r-normal--12-0-0-0-p-0-ksc5601.1987-0")
-
-;; (set-default-font "-misc-droid sans mono-medium-r-normal--11-0-0-0-m-0-iso8859-1")
-
-
-;;-----------------------------------------------------------------------
-
+(set-fontset-font "fontset-default" 'korean-ksc5601 "-microsoft-naver dictionary-medium-r-normal--12-0-0-0-p-0-ksc5601.1987-0")
 (set-default-font "DejaVu Sans Mono-9")
-(set-fontset-font "fontset-default" 'korean-ksc5601 "-microsoft-Naver Dictionary-normal-normal-normal-*-*-*-*-*-*-0-iso10646-1")
-;;-microsoft-Naver Dictionary-normal-normal-normal-*-*-*-*-*-*-0-iso10646-1
